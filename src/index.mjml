@@ -61,23 +61,23 @@
             <mj-text mj-class="D_Text" padding-bottom="0">
                 À <strong>ECOSUP Commerce</strong> vous ne serez jamais seul pour votre apprentissage car nous travaillons avec des <strong>entreprises partenaires</strong> prêtes à vous accueillir et à vous confier des missions valorisantes.  
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0">
+            <mj-text mj-class="D_Text">
                 Alors n'hésitez pas à nous contacter et à découvrir quelques-unes des propositions de postes en <strong>apprentissage</strong>.
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0" align="center">
-                - Magasins de Friperie sur Marquette-lez-Lille et Lille recherchent <strong style="color:#EC6608">conseiller/ère de vente</strong>.
+            <mj-text mj-class="D_Text" padding-bottom="0" container-background-color="#edf2f7">
+                <strong>- Magasins de Friperie</strong> sur Marquette-lez-Lille et Lille recherchent <strong style="color:#EC6608">conseillers/ères de vente</strong>.
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0" align="center">
-                - Marque de luxe en maroquinerie recherche <strong style="color:#EC6608">un/e conseiller/ère de vente en alternance</strong>.
+            <mj-text mj-class="D_Text D_RL" container-background-color="#edf2f7">
+                <strong>- Marque de luxe en maroquinerie</strong> recherche <strong style="color:#EC6608">un/e conseiller/ère de vente en alternance</strong>.
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0" align="center">
-                - Boutique de photographie sur Lille recherche sur Lille <strong style="color:#EC6608"> conseiller/ère de vente</strong>.
+            <mj-text mj-class="D_Text D_RL" container-background-color="#edf2f7">
+                <strong>- Boutique de photographie</strong> sur Lille recherche <strong style="color:#EC6608"> conseiller/ère de vente</strong>.
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0" align="center">
-               -  Enseigne de Culture sur V2/Lille recherche <strong style="color:#EC6608">son alternant</strong>.
+            <mj-text mj-class="D_Text D_RL" container-background-color="#edf2f7">
+               <strong>- Enseigne de Culture</strong> sur V2/Lille recherche <strong style="color:#EC6608">son alternant</strong>.
             </mj-text>
-            <mj-text mj-class="D_Text" padding-bottom="0" align="center">
-               - Magasin en son/électroménager sur V2 recherche <strong style="color:#EC6608">son alternant</strong>.
+            <mj-text mj-class="D_Text" padding-top="0" container-background-color="#edf2f7">
+               <strong>- Magasin en son/électroménager</strong> sur V2 recherche <strong style="color:#EC6608">son alternant</strong>.
             </mj-text>
             <mj-text mj-class="D_Text" padding-bottom="0">
                 Vous avez la volonté... nous avons le réseau !!!
