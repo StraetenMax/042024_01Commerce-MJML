@@ -87,6 +87,25 @@
             </mj-button>
         </mj-column>
         </mj-section>
+    <!--Signature-->
+        <mj-section background-color="#ffffff" padding="0">
+        <mj-group>
+           <mj-column width="300px" padding-bottom="25px">
+           <mj-image align="right" padding="0" src="https://img.mailinblue.com/3403292/images/content_library/original/6616fb3812fbe9e05adb27e5.jpg"  width="110px" alt="Marie Laurence Wallaert, responsable pédagogique Ecosup Commerce" />
+           </mj-column>
+            <mj-column width="300px" padding-bottom="25px">
+                <mj-text align="left" mj-class="D_Text D_RL">
+                    Marie-Laurence <span style="text-transform:uppercase" >Wallaert</span>
+                </mj-text>
+                <mj-text align="left" mj-class="D_Text D_RL">
+                    Responsable pédagogique
+                </mj-text>
+                <mj-text align="left" mj-class="D_Text D_RL">
+                    Ecosup Commerce
+                </mj-text>
+            </mj-column>
+        </mj-group>
+        </mj-section>
     <!--Footer-->
         <mj-section background-color="#edf2f7">
             <mj-column width="380px">
